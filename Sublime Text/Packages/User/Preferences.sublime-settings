@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Monokai.sublime-color-scheme",
+	"font_face": "JetBrains Mono",
+	"word_wrap": "true",
+	"save_on_focus_lost": true,
+	
+	"ignored_packages":
+	[
+		"Vintage",
+		"NeoVintageous",
+	],
+
+}

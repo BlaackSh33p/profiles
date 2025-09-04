@@ -1,0 +1,728 @@
+{
+	"file_history":
+	[
+		"/C/Users/blaack/AppData/Roaming/Sublime Text/Packages/User/Terminus.sublime-settings",
+		"/C/Users/blaack/AppData/Roaming/Sublime Text/Packages/Terminus/Terminus.sublime-settings",
+		"/C/Users/blaack/AppData/Roaming/Sublime Text/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/blaack/AppData/Roaming/Sublime Text/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/blaack/AppData/Roaming/Sublime Text/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/blaack/AppData/Roaming/Sublime Text/Packages/User/Preferences.sublime-settings",
+		"/C/Users/blaack/AppData/Roaming/Sublime Text/Packages/User/Default.sublime-commands",
+		"/C/Users/blaack/AppData/Roaming/Sublime Text/Packages/Terminus/Default.sublime-commands",
+		"/C/Users/blaack/Downloads/main-stream.py",
+		"/C/Users/blaack/Documents/startup.txt",
+		"/C/Users/blaack/Downloads/main.py",
+		"/C/Users/blaack/AppData/Roaming/Sublime Text/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/blaack/AppData/Roaming/Sublime Text/Packages/User/Package Control.sublime-settings",
+		"/C/Users/blaack/AppData/Roaming/Sublime Text/Installed Packages/NeoVintageous.sublime-package",
+		"/C/Users/blaack/AppData/Roaming/Sublime Text/Packages/NeoVintageous/CHANGELOG.md",
+		"/C/Users/blaack/Documents/AutoCAD/lumen-lamp",
+		"/C/Users/blaack/Downloads/[English (auto-generated)] Designing a PID Controller Using the Root Locus Method [DownSub.com].txt",
+		"/C/Users/blaack/Documents/bios.txt",
+		"/c/Users/blaack/Documents/Python3",
+		"/C/Users/blaack/Downloads/CodeIt.Right_Enterprise_3.3.18070/CodeIt.Right_Enterprise_3.3.18070/readme_ciree.txt",
+		"/C/Users/blaack/Downloads/CodeIt.Right_Enterprise_3.3.18070/CodeIt.Right_Enterprise_3.3.18070/Readme.txt",
+		"/C/Users/blaack/Downloads/Altium_Designer_25.4.2.15/Altium_Designer_25.4.2_Build_15_(x64)/Readme.txt",
+		"/C/Users/blaack/Downloads/MathWorks_MATLAB_R2024b_v24.2.0.2712019/Crack/Readme.txt",
+		"/C/Users/blaack/Downloads/Easy-PC_PCB_16.0.9/Easy-PC_PCB_16.0.9/Easy-PC_PCB_16.0.9/Crack/Readme.txt",
+		"/C/Users/blaack/AppData/Local/Temp/7zO460537B3/serials_private.txt",
+		"/C/Users/blaack/Downloads/Richardson_Software_RazorSQL_8.1.1/Richardson_Software_RazorSQL_8.1.1/Richardson_Software_RazorSQL_8.1.1/Crack/Readme.txt",
+		"/C/Users/blaack/Downloads/Richardson_Software_RazorSQL_8.1.1/Richardson_Software_RazorSQL_8.1.1/Richardson_Software_RazorSQL_8.1.1/Crack/d-KeyMaker.jar",
+		"/C/Users/blaack/Documents/compiled/d-KeyMaker/de/quippy/javamod/main/gui/EffectsPanel$1.class",
+		"/C/Users/blaack/Downloads/Matlab_R2014a_Full_Setup/Matlab_R2014a_Full_Setup/Matlab_R2014a_Full_Setup/Instructions.txt",
+		"/C/Users/blaack/Documents/AutoCAD/py-autocad/netlist.csv",
+		"/C/Users/blaack/Documents/AutoCAD/py-autocad/main.py",
+		"/C/Users/blaack/Downloads/Mathworks_Matlab_R2018b_v9.5.0x64/Mathworks_Matlab_R2018b_v9.5.0x64/Mathworks_Matlab_R2018b_v9.5.0x64/Readme.txt",
+		"/C/Users/blaack/Downloads/Altium_Designer_25.4.2.15/Altium_Designer_25.4.2_Build_15_(x64)/!!AD21 Unis Licenses/!!! ReadMe !!!.txt",
+		"/C/Users/blaack/Downloads/Proteus_Professional_9.0_SP2/Crack/ReadMe.txt",
+		"/C/Users/blaack/AppData/Local/Temp/7zOC64AD4DE/ReadMe.txt",
+		"/E/Readme.txt",
+		"/C/Users/blaack/AppData/Local/Temp/7zO4715243B/!!! ReadMe !!!.txt",
+		"/C/Users/blaack/.ssh/id_ed25519.pub",
+		"/C/Users/blaack/Documents/cpu-info.rs",
+		"/C/Users/blaack/Downloads/Microsoft_Office_2013_Prox64_MAY_2022/Microsoft_Office_2013_Prox64_MAY_2022/Crack/KMS_VL_ALL_AIO.cmd",
+		"/C/Users/blaack/Documents/passwords_dump.csv"
+	],
+	"folder_history":
+	[
+		"/C/Users/blaack/Downloads/jd-gui-windows-1.6.6",
+		"/C/Users/blaack/Documents/AutoCAD"
+	],
+	"last_version": 4200,
+	"last_window_id": 23,
+	"log_indexing": false,
+	"next_update_check": 1757020723,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 581.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			0.0,
+			43.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"termin",
+						"Preferences: Terminus Command Palette"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 130.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/blaack/Documents/terminus-keys.json",
+				"/C/Users/blaack/Downloads/main.py",
+				"/C/Users/blaack/AppData/Roaming/Sublime Text/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/blaack/AppData/Roaming/Sublime Text/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/blaack/Downloads/main-stream.py",
+				"/C/Users/blaack/Documents/startup.txt",
+				"/C/Users/blaack/AppData/Roaming/Sublime Text/Installed Packages/NeoVintageous.sublime-package",
+				"/C/Users/blaack/AppData/Roaming/Sublime Text/Packages/NeoVintageous/CHANGELOG.md",
+				"/C/Users/blaack/Documents/AutoCAD/lumen-lamp",
+				"/C/Users/blaack/Downloads/[English (auto-generated)] Designing a PID Controller Using the Root Locus Method [DownSub.com].txt",
+				"/C/Users/blaack/Documents/bios.txt",
+				"/c/Users/blaack/Documents/Python3",
+				"/C/Users/blaack/Downloads/CodeIt.Right_Enterprise_3.3.18070/CodeIt.Right_Enterprise_3.3.18070/readme_ciree.txt",
+				"/C/Users/blaack/Downloads/CodeIt.Right_Enterprise_3.3.18070/CodeIt.Right_Enterprise_3.3.18070/Readme.txt",
+				"/C/Users/blaack/Downloads/Altium_Designer_25.4.2.15/Altium_Designer_25.4.2_Build_15_(x64)/Readme.txt",
+				"/C/Users/blaack/Downloads/MathWorks_MATLAB_R2024b_v24.2.0.2712019/Crack/Readme.txt",
+				"/C/Users/blaack/Downloads/Easy-PC_PCB_16.0.9/Easy-PC_PCB_16.0.9/Easy-PC_PCB_16.0.9/Crack/Readme.txt",
+				"/C/Users/blaack/AppData/Local/Temp/7zO460537B3/serials_private.txt",
+				"/C/Users/blaack/Downloads/Richardson_Software_RazorSQL_8.1.1/Richardson_Software_RazorSQL_8.1.1/Richardson_Software_RazorSQL_8.1.1/Crack/Readme.txt",
+				"/C/Users/blaack/Downloads/Richardson_Software_RazorSQL_8.1.1/Richardson_Software_RazorSQL_8.1.1/Richardson_Software_RazorSQL_8.1.1/Crack/d-KeyMaker.jar",
+				"/C/Users/blaack/Documents/compiled/d-KeyMaker/de/quippy/javamod/main/gui/EffectsPanel$1.class",
+				"/C/Users/blaack/Downloads/Matlab_R2014a_Full_Setup/Matlab_R2014a_Full_Setup/Matlab_R2014a_Full_Setup/Instructions.txt",
+				"/C/Users/blaack/Downloads/Mathworks_Matlab_R2018b_v9.5.0x64/Mathworks_Matlab_R2018b_v9.5.0x64/Mathworks_Matlab_R2018b_v9.5.0x64/Readme.txt",
+				"/C/Users/blaack/Downloads/Altium_Designer_25.4.2.15/Altium_Designer_25.4.2_Build_15_(x64)/!!AD21 Unis Licenses/!!! ReadMe !!!.txt",
+				"/C/Users/blaack/Downloads/Proteus_Professional_9.0_SP2/Crack/ReadMe.txt",
+				"/C/Users/blaack/AppData/Local/Temp/7zOC64AD4DE/ReadMe.txt",
+				"/E/Readme.txt",
+				"/C/Users/blaack/AppData/Local/Temp/7zO4715243B/!!! ReadMe !!!.txt",
+				"/C/Users/blaack/.ssh/id_ed25519.pub",
+				"/C/Users/blaack/Documents/cpu-info.rs",
+				"/C/Users/blaack/Downloads/Microsoft_Office_2013_Prox64_MAY_2022/Microsoft_Office_2013_Prox64_MAY_2022/Crack/KMS_VL_ALL_AIO.cmd",
+				"/C/Users/blaack/Documents/passwords_dump.csv"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"exists"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 41.0
+			},
+			"menu_visible": true,
+			"output.PowerShell":
+			{
+				"height": 142.0,
+				"history":
+				[
+				]
+			},
+			"output.exec":
+			{
+				"height": 244.0,
+				"history":
+				[
+				]
+			},
+			"output.find_results":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 800.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/blaack/Downloads/main.py",
+					"redo_stack":
+					[
+						[
+							80,
+							1,
+							"insert",
+							{
+								"characters": "ii"
+							},
+							"AgAAAEQEAAAAAAAARAQAAAAAAAABAAAAaUMEAAAAAAAAQwQAAAAAAAABAAAAaQ",
+							"AQAAAAAAAAABAAAARQQAAAAAAABFBAAAAAAAAAAAAAAAAPC/"
+						]
+					],
+					"settings":
+					{
+						"buffer_size": 1145,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					},
+					"undo_stack":
+					[
+						[
+							32,
+							1,
+							"insert",
+							{
+								"characters": "~"
+							},
+							"AQAAAFEBAAAAAAAAUgEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAUQEAAAAAAABRAQAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/C/Users/blaack/Documents/terminus-keys.json",
+					"redo_stack":
+					[
+						[
+							46,
+							1,
+							"insert",
+							{
+								"characters": "`"
+							},
+							"AQAAAAgBAAAAAAAACAEAAAAAAAABAAAAYA",
+							"AQAAAAAAAAABAAAACQEAAAAAAAAJAQAAAAAAAAAAAAAAAPC/"
+						]
+					],
+					"settings":
+					{
+						"buffer_size": 538,
+						"encoding": "UTF-8",
+						"line_ending": "Windows",
+						"name": "// ["
+					},
+					"undo_stack":
+					[
+						[
+							5,
+							1,
+							"paste",
+							{
+								"event":
+								{
+									"modifier_keys":
+									{
+									},
+									"text_point": 0,
+									"x": 234.5,
+									"y": 98.5
+								}
+							},
+							"AQAAAAAAAAAAAAAAXAIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							16,
+							1,
+							"insert",
+							{
+								"characters": "`"
+							},
+							"AQAAAPUAAAAAAAAA9gAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA9QAAAAAAAAD1AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							26,
+							1,
+							"toggle_comment",
+							{
+								"block": false
+							},
+							"FgAAAFcCAAAAAAAAVwIAAAAAAAADAAAALy8gTgIAAAAAAABOAgAAAAAAAAMAAAAvLyBBAgAAAAAAAEECAAAAAAAAAwAAAC8vIBYCAAAAAAAAFgIAAAAAAAADAAAALy8g9wEAAAAAAAD3AQAAAAAAAAMAAAAvLyDHAQAAAAAAAMcBAAAAAAAAAwAAAC8vIJMBAAAAAAAAkwEAAAAAAAADAAAALy8gfgEAAAAAAAB+AQAAAAAAAAMAAAAvLyBXAQAAAAAAAFcBAAAAAAAAAwAAAC8vIC4BAAAAAAAALgEAAAAAAAADAAAALy8gJQEAAAAAAAAlAQAAAAAAAAMAAAAvLyAbAQAAAAAAABsBAAAAAAAAAwAAAC8vIA4BAAAAAAAADgEAAAAAAAADAAAALy8g6AAAAAAAAADoAAAAAAAAAAMAAAAvLyDJAAAAAAAAAMkAAAAAAAAAAwAAAC8vIJkAAAAAAAAAmQAAAAAAAAADAAAALy8gbQAAAAAAAABtAAAAAAAAAAMAAAAvLyBYAAAAAAAAAFgAAAAAAAAAAwAAAC8vIDEAAAAAAAAAMQAAAAAAAAADAAAALy8gDgAAAAAAAAAOAAAAAAAAAAMAAAAvLyAFAAAAAAAAAAUAAAAAAAAAAwAAAC8vIAAAAAAAAAAAAAAAAAAAAAADAAAALy8g",
+							"AQAAAAAAAAABAAAAAAAAAAAAAABdAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							38,
+							2,
+							"left_delete",
+							null,
+							"AgAAANsAAAAAAAAA2wAAAAAAAAABAAAAINoAAAAAAAAA2gAAAAAAAAABAAAAYA",
+							"AQAAAAAAAAABAAAA3AAAAAAAAADcAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							39,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAANoAAAAAAAAA2wAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA2gAAAAAAAADaAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"termin",
+						"Preferences: Terminus Command Palette"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 130.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/blaack/AppData/Roaming/Sublime Text/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/blaack/AppData/Roaming/Sublime Text/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/blaack/Downloads/main-stream.py",
+				"/C/Users/blaack/Downloads/main.py",
+				"/C/Users/blaack/Documents/startup.txt",
+				"/C/Users/blaack/AppData/Roaming/Sublime Text/Installed Packages/NeoVintageous.sublime-package",
+				"/C/Users/blaack/AppData/Roaming/Sublime Text/Packages/NeoVintageous/CHANGELOG.md",
+				"/C/Users/blaack/Documents/AutoCAD/lumen-lamp",
+				"/C/Users/blaack/Downloads/[English (auto-generated)] Designing a PID Controller Using the Root Locus Method [DownSub.com].txt",
+				"/C/Users/blaack/Documents/bios.txt",
+				"/c/Users/blaack/Documents/Python3",
+				"/C/Users/blaack/Downloads/CodeIt.Right_Enterprise_3.3.18070/CodeIt.Right_Enterprise_3.3.18070/readme_ciree.txt",
+				"/C/Users/blaack/Downloads/CodeIt.Right_Enterprise_3.3.18070/CodeIt.Right_Enterprise_3.3.18070/Readme.txt",
+				"/C/Users/blaack/Downloads/Altium_Designer_25.4.2.15/Altium_Designer_25.4.2_Build_15_(x64)/Readme.txt",
+				"/C/Users/blaack/Downloads/MathWorks_MATLAB_R2024b_v24.2.0.2712019/Crack/Readme.txt",
+				"/C/Users/blaack/Downloads/Easy-PC_PCB_16.0.9/Easy-PC_PCB_16.0.9/Easy-PC_PCB_16.0.9/Crack/Readme.txt",
+				"/C/Users/blaack/AppData/Local/Temp/7zO460537B3/serials_private.txt",
+				"/C/Users/blaack/Downloads/Richardson_Software_RazorSQL_8.1.1/Richardson_Software_RazorSQL_8.1.1/Richardson_Software_RazorSQL_8.1.1/Crack/Readme.txt",
+				"/C/Users/blaack/Downloads/Richardson_Software_RazorSQL_8.1.1/Richardson_Software_RazorSQL_8.1.1/Richardson_Software_RazorSQL_8.1.1/Crack/d-KeyMaker.jar",
+				"/C/Users/blaack/Documents/compiled/d-KeyMaker/de/quippy/javamod/main/gui/EffectsPanel$1.class",
+				"/C/Users/blaack/Downloads/Matlab_R2014a_Full_Setup/Matlab_R2014a_Full_Setup/Matlab_R2014a_Full_Setup/Instructions.txt",
+				"/C/Users/blaack/Downloads/Mathworks_Matlab_R2018b_v9.5.0x64/Mathworks_Matlab_R2018b_v9.5.0x64/Mathworks_Matlab_R2018b_v9.5.0x64/Readme.txt",
+				"/C/Users/blaack/Downloads/Altium_Designer_25.4.2.15/Altium_Designer_25.4.2_Build_15_(x64)/!!AD21 Unis Licenses/!!! ReadMe !!!.txt",
+				"/C/Users/blaack/Downloads/Proteus_Professional_9.0_SP2/Crack/ReadMe.txt",
+				"/C/Users/blaack/AppData/Local/Temp/7zOC64AD4DE/ReadMe.txt",
+				"/E/Readme.txt",
+				"/C/Users/blaack/AppData/Local/Temp/7zO4715243B/!!! ReadMe !!!.txt",
+				"/C/Users/blaack/.ssh/id_ed25519.pub",
+				"/C/Users/blaack/Documents/cpu-info.rs",
+				"/C/Users/blaack/Downloads/Microsoft_Office_2013_Prox64_MAY_2022/Microsoft_Office_2013_Prox64_MAY_2022/Crack/KMS_VL_ALL_AIO.cmd",
+				"/C/Users/blaack/Documents/passwords_dump.csv"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"exists"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/blaack/Downloads/main.py",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1145,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										198,
+										198
+									]
+								],
+								"settings":
+								{
+									"_nv_visual_sel_mode": "mode_visual",
+									"highlight_line": false,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/blaack/Documents/terminus-keys.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 538,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										207,
+										207
+									]
+								],
+								"settings":
+								{
+									"auto_name": "// [",
+									"highlight_line": false,
+									"syntax": "Packages/JSON/JSON.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 41.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.PowerShell":
+			{
+				"height": 142.0,
+				"history":
+				[
+				]
+			},
+			"output.exec":
+			{
+				"height": 244.0,
+				"history":
+				[
+				]
+			},
+			"output.find_results":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,702,62,62,878,82abb4c77a9df746baee4abf34bdd8ae",
+			"project": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+				"_vintageous_reset_during_init": true,
+				"last_automatic_layout":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				]
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 14,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

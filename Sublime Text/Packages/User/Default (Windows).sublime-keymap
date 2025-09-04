@@ -1,0 +1,13 @@
+[
+    // Open a normal PowerShell in a panel
+    {
+        "keys": ["ctrl+`"],
+        "command": "terminus_open",
+        "args": {
+            "config_name": "PowerShell",
+            "panel_name": null,
+            "auto_close": false,
+            "cwd": "${file_path:${folder}}"
+        }
+    }
+]

@@ -1,0 +1,22 @@
+// [
+// 	{
+//     "shell_configs": [
+//         {
+//             "name": "PowerShell",
+//             "cmd": ["pwsh.exe", "-NoLogo"],   // Or "powershell.exe" for older versions
+//             "env": {},
+//             "cwd": "%CWD%",
+//             "panel_name": "PowerShell"
+//         },
+//         {
+//             "name": "PowerShell (Admin)",
+//             "cmd": ["C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe", "-NoLogo"],
+//             "env": {},
+//             "cwd": "%CWD%",
+//             "panel_name": "PowerShell (Admin)",
+//             "admin": true
+//         }
+//     ]
+// }
+	
+// ]
